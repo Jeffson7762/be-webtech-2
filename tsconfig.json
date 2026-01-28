@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "target": "ES2020",              // Use modern JavaScript features
+    "module": "ESNext",              // Use ES Modules
+    "moduleResolution": "node",      // Resolve node-style modules
+    "esModuleInterop": true,         // Enable interop for CommonJS modules
+    "strict": true,                  // Enable strict type-checking
+    "skipLibCheck": true,            // Skip type checking of declaration files
+    "forceConsistentCasingInFileNames": true
+  }
+}
